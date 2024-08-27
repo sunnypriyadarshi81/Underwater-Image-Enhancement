@@ -10,7 +10,14 @@ which images have low contrast, color distortion, and low visibility. Hence, und
 images need enhancement to improve the quality of images to be used for various
 applications while preserving the valuable information contained in them.
 
-#Block diagram
+## Block Diagram 
+![block_diagram](https://github.com/sunnypriyadarshi81/Underwater-Image-Enhancement-using-Fusion/blob/main/images/block_diagram.png)
+
+## Results
+![block_diagram](https://github.com/sunnypriyadarshi81/Underwater-Image-Enhancement-using-Fusion/blob/main/images/result1.PNG)
+![block_diagram](https://github.com/sunnypriyadarshi81/Underwater-Image-Enhancement-using-Fusion/blob/main/images/result2.PNG)
+
+
 
 
 
