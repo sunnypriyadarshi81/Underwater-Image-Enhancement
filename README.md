@@ -10,5 +10,7 @@ which images have low contrast, color distortion, and low visibility. Hence, und
 images need enhancement to improve the quality of images to be used for various
 applications while preserving the valuable information contained in them.
 
+#Block diagram
+
 
 
