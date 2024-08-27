@@ -11,6 +11,4 @@ images need enhancement to improve the quality of images to be used for various
 applications while preserving the valuable information contained in them.
 
 
-images/block_diagram.png
-
 
