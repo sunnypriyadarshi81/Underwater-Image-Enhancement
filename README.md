@@ -27,6 +27,8 @@ These enhancement techniques are crucial for making underwater images useful for
 ## Block Diagram 
 ![block_diagram](https://github.com/sunnypriyadarshi81/Underwater-Image-Enhancement-using-Fusion/blob/main/images/block_diagram.png)
 
+This diagram illustrates an image enhancement process starting with color correction using the compensation of color channels and the Gray World Algorithm, followed by contrast enhancement through global histogram equalization and unsharp masking. The enhanced outputs are fused and finalized using either averaging-based or PCA-based fusion methods to produce an enhanced image.
+
 ## Results
 ![block_diagram](https://github.com/sunnypriyadarshi81/Underwater-Image-Enhancement-using-Fusion/blob/main/images/result1.PNG)
 ![block_diagram](https://github.com/sunnypriyadarshi81/Underwater-Image-Enhancement-using-Fusion/blob/main/images/result2.PNG)
